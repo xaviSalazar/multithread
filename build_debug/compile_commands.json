@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/vsalazarsarabia/Documents/Multithread/build_debug",
+    "command": "c++ -Imultithread@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Wpedantic -std=c++17 -g -MD -MQ 'multithread@exe/main.cpp.o' -MF 'multithread@exe/main.cpp.o.d' -o 'multithread@exe/main.cpp.o' -c ../main.cpp",
+    "file": "../main.cpp",
+    "output": "multithread@exe/main.cpp.o"
+  }
+]

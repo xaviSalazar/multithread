@@ -1,0 +1,1 @@
+[{"name": "boost", "version": "1.77", "compile_args": [], "link_args": ["-lboost_system", "-lboost_regex"]}]
